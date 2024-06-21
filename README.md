@@ -7,7 +7,7 @@
 ## ABOUT
 This project set out to design a sign-up form for a technology company where web users can input their details to create an account and transfer them into the main website. On this website, users are instructed to:
 
-- Input the forename and surname
+- Input their forename and surname
 - Input a valid e-mail address (example@gmail.com)
 - Select a region they are based in via the dropdown list
 - Create a password with at least 1 capital letter & 1 number
