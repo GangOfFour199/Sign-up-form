@@ -18,7 +18,7 @@ This project set out to design a sign-up form for a technology company where web
 
 - Users can fill in their details for each category
 - The region category includes a dropdown list with list of regions
-- It features a link in which those who have already created an account can be directed to then sign-in page.
+- It features a link in which those who have already created an account can then be directed to the sign-in page.
 - It displays error messages when validating the form, if a user's input does not satisfy the specified conditions
 - Permits input of letters, numbers and special characters for password selection.
 
