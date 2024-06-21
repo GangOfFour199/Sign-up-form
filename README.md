@@ -12,7 +12,7 @@ This project set out to design a sign-up form for a technology company where web
 - Select a region they are based in via the dropdown list
 - Create a password with at least 1 capital letter & 1 number
 - Create a password between 7 and 14 characters
-- Confirm their password with both matching each other
+- Confirm their password with both inputs matching each other
 
 ## FEATURES
 
